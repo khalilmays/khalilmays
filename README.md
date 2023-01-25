@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Denial-of-Service Local Area Network Denial Attack</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>OS and Web Application Penetration Test</b>
-  - (https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+
+- <b>[OS and Web Application Penetration Test](https://github.com/khalilmays/OSWebApplicnationPenetrationTest)</b>
+
 - <b>Defensive Security Using Splunk</b>
 
 
