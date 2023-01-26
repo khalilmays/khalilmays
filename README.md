@@ -6,7 +6,7 @@
 
 - <b>[OS and Web Application Penetration Test](https://github.com/khalilmays/OSWebApplicnationPenetrationTest)</b>
 
-- <b>Defensive Security Using Splunk</b>
+- <b>[Defensive Security Using Splunk](https://github.com/khalilmays/DefensiveSecurityUsingSplunk)</b>
 
 
 - <b>[Securing Cloud Applications](https://github.com/khalilmays/AzureCloudWebApp.git)</b>
